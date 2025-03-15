@@ -10,13 +10,13 @@ const teamMembers = [
   {
     name: 'Sushant Sharma',
     role: 'Head of Consulting',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+    image: 'https://i.postimg.cc/f3gVJ5MR/Screenshot-2025-03-15-100843.png',
     bio: 'Specialized in scholarship applications for top universities worldwide.',
   },
   {
     name: 'Rajib Sedai',
     role: 'Academic Director',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+    image:'https://i.postimg.cc/SjnKtWkW/Screenshot-2025-03-15-100659.png' ,
     bio: 'PhD in Education Policy, expert in international academic programs.',
   },
   {
@@ -28,19 +28,19 @@ const teamMembers = [
   {
     name: 'Sishir Sapkota',
     role: 'Senior Consultant',
-    image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+    image: 'https://i.postimg.cc/TKKhrWQP/Screenshot-2025-03-15-100959.png',
     bio: 'Specializes in graduate school admissions and research scholarships.',
   },
   {
     name: 'Khem Raj Adhikari',
     role: 'Marketing Director',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+    image:'https://i.postimg.cc/xJctzsHx/Screenshot-2025-03-15-101047.png',
     bio: 'Leads our outreach and community engagement initiatives.',
   },
   {
     name: 'Ritika Timilsina',
     role: 'Content Strategist',
-    image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+    image: 'https://i.postimg.cc/jDMH4HRG/Screenshot-2025-03-15-100752.png',
     bio: 'Creates educational content and scholarship guides.',
   },
   {
@@ -58,7 +58,7 @@ const teamMembers = [
   {
     name: 'Anish Pandey',
     role: 'Research Analyst',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+    image: 'https://i.postimg.cc/d7MqXXQd/Screenshot-2025-03-15-100725.png' ,
     bio: 'Identifies and validates new scholarship opportunities.',
   },
 ];
